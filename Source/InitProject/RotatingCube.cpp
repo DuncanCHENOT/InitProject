@@ -54,4 +54,3 @@ void ARotatingCube::Tick(float DeltaTime)
 		SetActorLocation(NewLocation);
 	}
 }
-
